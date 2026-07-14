@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import './globals.css'
+import './new-globals.css'
 
 export const metadata: Metadata = {
   title: 'Cofeekuchh - Premium CBD Shop',
